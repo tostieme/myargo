@@ -31,6 +31,8 @@ spec:
       revision: HEAD
       directories:
       - path: applications/*
+      - path: applications/_appset
+        exclude: true
       template:
         metadata: {}
         spec:
