@@ -20,4 +20,4 @@ helmCharts:
   repo: https://helm.linkerd.io/stable
   valuesFile: values-linkerd-control-plane.yaml
   namespace: linkerd
-  releaseName: linkerd-contorl-plane
+  releaseName: linkerd-control-plane

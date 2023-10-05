@@ -1,4 +1,4 @@
 identity:
   externalCA: true
   issuer:
-    scheme: linkerd.io/tls
+    scheme: kubernetes.io/tls
